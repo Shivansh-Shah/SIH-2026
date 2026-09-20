@@ -1,0 +1,9 @@
+torch>=2.6
+numpy>=2.0
+rasterio>=1.4
+scikit-image>=0.25
+pillow>=11
+requests>=2.32
+pandas>=2.2
+tacoreader>=2.4
+aiohttp>=3.11
